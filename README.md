@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Defi Portfolio Tracker
+
+A unique portfolio tracker that tracks DEX Trade History and shows the balances as well as transaction history (deposits and withdraws) in the given wallet address.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
